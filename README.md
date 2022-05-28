@@ -13,8 +13,8 @@
 
 ## Commands
 
-- press accent key to scaffold, it is below Escape key on the keyboard
-- select text and press Ctrl + Shift + Accent to unscaffold
-- shift + accent to output marker
-- press Ctrl + Accent to output marker for nested scaffold
+- Press Accent key to scaffold, it is below Escape key on the keyboard
+- Select text and press Ctrl + Shift + Accent to unscaffold
+- Shift + Accent to output marker
+- Ctrl + Accent to output marker for nested scaffold
 - Ctrl + Alt + x to exit

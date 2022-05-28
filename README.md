@@ -34,7 +34,7 @@
 ## Usage
 
 ### Repetitive injection
-1. create a main scaffolding function and sub scaffolding function(s) (you can place at the end of the script or anywhere you prefer, sample given in sample_scaffolding_function_template.ahk)
+1. Create a main scaffolding function and sub scaffolding function(s) (you can place at the end of the script or anywhere you prefer, sample given in sample_scaffolding_function_template.ahk)
 2. Update table_or_field_name in Scite (put field name) ![image](https://user-images.githubusercontent.com/16064343/170840769-da2763cf-3840-4db0-bc70-deb99d87c544.png)
 3. Press F5 in Scite (to save and reload script)
 4. Select exisiting text (for one field only) ![image](https://user-images.githubusercontent.com/16064343/170840800-eb47bf4d-34b7-4da0-9439-9f7f56e36b45.png)
@@ -50,7 +50,23 @@
 3. Select all the text in the exising file
 4. Press Ctrl + Shift + Accent to unscaffold
 5. Paste in main template placeholder ![image](https://user-images.githubusercontent.com/16064343/170842691-9ed02bf1-14d5-450b-8ddf-fa3ffc3a6402.png)
-6. Add a call to sample_main_function() inside scaffoldFiles() function
+6. Update directory and file name ![image](https://user-images.githubusercontent.com/16064343/170842968-4cecbb2d-c912-4e7a-b14e-531d032e62fd.png)
+7. Add a call to sample_main_function() inside scaffoldFiles() function ![image](https://user-images.githubusercontent.com/16064343/170843468-ebfe6911-fd94-4017-b6aa-3851850c43bb.png)
+
 
 ### Run Scaffolder
 1. Press Accent key
+
+
+
+### Troubleshooting
+- If you have problems with singular or plural forms, add an entry singularToPlural array inside fetchDatabaseDesign() function ![image](https://user-images.githubusercontent.com/16064343/170843536-5fe2bbad-59a6-4588-815f-7db7e0b1d0d7.png)
+
+### Debugging
+- You can put breakpoints by clicking gray area left of line number ![image](https://user-images.githubusercontent.com/16064343/170843569-8a2ce0a4-c138-48dc-931d-04face16b85b.png)
+- Click debug ![image](https://user-images.githubusercontent.com/16064343/170843621-07d0d61a-cea8-4706-8de8-28111f3ee82d.png)
+- When debug button turns red, click run script ![image](https://user-images.githubusercontent.com/16064343/170843641-c78da3b5-7a0f-4383-bc98-992b9225c7d4.png)
+
+
+
+

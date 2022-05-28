@@ -26,6 +26,5 @@
 - Open scaffolder.ahk in SciTE
 - Update phpMyAdmin URLs
 ![image](https://user-images.githubusercontent.com/16064343/170838135-dd51c052-a5c6-457e-9cc5-225d77a8eb2c.png)
-
 ![image](https://user-images.githubusercontent.com/16064343/170838118-a684e53e-d41c-44ca-90c3-147529a15fe1.png)
 

@@ -60,12 +60,17 @@
 
 
 ### Troubleshooting
-- If you have problems with singular or plural forms, add an entry singularToPlural array inside fetchDatabaseDesign() function ![image](https://user-images.githubusercontent.com/16064343/170843536-5fe2bbad-59a6-4588-815f-7db7e0b1d0d7.png)
+- If you have problems with singular or plural forms, add an entry singularToPlural array inside fetchDatabaseDesign() function
+ ![image](https://user-images.githubusercontent.com/16064343/170843536-5fe2bbad-59a6-4588-815f-7db7e0b1d0d7.png)
 
 ### Debugging
-- You can put breakpoints by clicking gray area left of line number ![image](https://user-images.githubusercontent.com/16064343/170843569-8a2ce0a4-c138-48dc-931d-04face16b85b.png)
-- Click debug ![image](https://user-images.githubusercontent.com/16064343/170843621-07d0d61a-cea8-4706-8de8-28111f3ee82d.png)
-- When debug button turns red, click run script ![image](https://user-images.githubusercontent.com/16064343/170843641-c78da3b5-7a0f-4383-bc98-992b9225c7d4.png)
+- You can put breakpoints by clicking gray area left of line number
+ ![image](https://user-images.githubusercontent.com/16064343/170843569-8a2ce0a4-c138-48dc-931d-04face16b85b.png)
+- Click debug
+ ![image](https://user-images.githubusercontent.com/16064343/170843621-07d0d61a-cea8-4706-8de8-28111f3ee82d.png)
+- When debug button turns red, click run script
+ ![image](https://user-images.githubusercontent.com/16064343/170843692-4cbb8adb-f43f-4362-a0c2-cdca5cc3464e.png)
+
 
 
 

@@ -52,10 +52,14 @@
 5. Paste in main template placeholder
 
 ![image](https://user-images.githubusercontent.com/16064343/170842691-9ed02bf1-14d5-450b-8ddf-fa3ffc3a6402.png)
+
 6. Update directory and file name 
 
 ![image](https://user-images.githubusercontent.com/16064343/170842968-4cecbb2d-c912-4e7a-b14e-531d032e62fd.png)
-7. Add a call to sample_main_function() inside scaffoldFiles() function ![image](https://user-images.githubusercontent.com/16064343/170843468-ebfe6911-fd94-4017-b6aa-3851850c43bb.png)
+
+7. Add a call to sample_main_function() inside scaffoldFiles() function 
+
+![image](https://user-images.githubusercontent.com/16064343/170843468-ebfe6911-fd94-4017-b6aa-3851850c43bb.png)
 
 
 ### Run Scaffolder

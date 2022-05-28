@@ -18,3 +18,11 @@
 - Shift + Accent to output marker
 - Ctrl + Accent to output marker for nested scaffold
 - Ctrl + Alt + x to exit
+
+## Setup
+
+- Download AutoHotkey.zip
+- Extract and open AutoHotkey\SciTE\SciTE.exe
+- Open scaffolder.ahk in SciTE
+- Update phpMyAdmin URLs
+![image](https://user-images.githubusercontent.com/16064343/170838065-f439ad0d-038c-40af-80e2-a4b80ae03fbe.png)

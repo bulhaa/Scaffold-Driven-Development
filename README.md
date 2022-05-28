@@ -1,8 +1,8 @@
 # Scaffolder
 
-Create templates from existing files using unscaffolding feature
-Inject conditional or repetitive elements into the main template
-Use database structure and scaffold based on field names, data types, nullability and relationships
+- Create templates from existing files using unscaffolding feature
+- Inject conditional or repetitive elements into the main template
+- Use database structure and scaffold based on field names, data types, nullability and relationships
 
 ## Runtime Environment:
 

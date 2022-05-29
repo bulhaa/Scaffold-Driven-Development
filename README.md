@@ -68,7 +68,7 @@
 
 
 ### Troubleshooting
-- If you have problems with singular or plural forms, add an entry singularToPlural array inside fetchDatabaseDesign() function
+- If you have problems with singular or plural forms, add an entry to singularToPlural array inside fetchDatabaseDesign() function
 
 ![image](https://user-images.githubusercontent.com/16064343/170843536-5fe2bbad-59a6-4588-815f-7db7e0b1d0d7.png)
 

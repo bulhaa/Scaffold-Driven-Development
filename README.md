@@ -37,7 +37,7 @@
 1. Create a main scaffolding function and sub scaffolding function(s) (you can place at the end of the script or anywhere you prefer, sample given in sample_scaffolding_function_template.ahk)
 2. Update table_or_field_name in Scite (put field name) ![image](https://user-images.githubusercontent.com/16064343/170840769-da2763cf-3840-4db0-bc70-deb99d87c544.png)
 3. Press F5 in Scite (to save and reload script)
-4. Select exisiting text (for one field only) ![image](https://user-images.githubusercontent.com/16064343/170840800-eb47bf4d-34b7-4da0-9439-9f7f56e36b45.png)
+4. Select existing text (for one field only) ![image](https://user-images.githubusercontent.com/16064343/170840800-eb47bf4d-34b7-4da0-9439-9f7f56e36b45.png)
 5. Press Ctrl + Shift + Accent to unscaffold
 6. Paste in repetitive injection ![image](https://user-images.githubusercontent.com/16064343/170842051-7a1edb02-7323-4b6a-9c8d-56cecbeda93f.png)
 7. Copy resulting variable name ![image](https://user-images.githubusercontent.com/16064343/170842385-718cd3bc-10a9-42c2-bc6d-6096839c4394.png)

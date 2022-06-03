@@ -1,6 +1,8 @@
-# Scaffolder
+# Not Scaffolder
 
-- Create templates from existing files using unscaffolding feature
+- Not your average scaffolder. This is Scaffold Driven Development
+- Create templates from existing files using unscaffolding feature.  
+-- Meaning you can update your
 - Inject conditional or repetitive elements into the main template
 - Use database structure and scaffold based on field names, data types, nullability and relationships
 
